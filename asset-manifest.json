@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/onboarding/static/css/main.9671a69e.css",
+    "main.js": "/onboarding/static/js/main.bf855df7.js",
+    "static/media/home-main-bg.png": "/onboarding/static/media/home-main-bg.bafd76a87edcec73adb1.png",
+    "static/media/ava_logo_black.png": "/onboarding/static/media/ava_logo_black.5f4102b8e6c21090d7ce.png",
+    "static/media/image_1.webp": "/onboarding/static/media/image_1.b456b48e54a662981ef0.webp",
+    "static/media/computer.png": "/onboarding/static/media/computer.2f918dd0e4fa86f96dc3.png",
+    "static/media/herobg.jpg": "/onboarding/static/media/herobg.a6606d2bf54fe2ab4cce.jpg",
+    "static/media/defult-Video.png": "/onboarding/static/media/defult-Video.776ae5b0b6022fe9c99c.png",
+    "static/media/web_logo.svg": "/onboarding/static/media/web_logo.c3a50e58903eb49262af0bb609228832.svg",
+    "index.html": "/onboarding/index.html",
+    "main.9671a69e.css.map": "/onboarding/static/css/main.9671a69e.css.map",
+    "main.bf855df7.js.map": "/onboarding/static/js/main.bf855df7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9671a69e.css",
+    "static/js/main.bf855df7.js"
+  ]
+}
